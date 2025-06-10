@@ -1,21 +1,20 @@
-## Hi, I'm Gideon
+## About me 
+Hi! I'm Gideon. I am passionate about sharing my career development in the tech industry.<br/>
 
-🌳 Sharing my journey in the tech industry<br/>
-🎓 Studied Industrial Engineering at Batangas State University<br/>
-🚀 Transitioning into Data Analytics<br/>
-💌 Reach me at: gideon.zamora@gmail.com<br/>
+🌳Experienced in querying data using SQL to extract meaningful insights.<br/>
+📊Create compelling data visualizations and dashboards in Tableau.<br/>
 
-### 📚 Projects
+### 🎨 Projects
 
 Welcome to my portfolio
 
-### 🛠️ Tools
+### 🔧 Tools
 
 - Language: SQL, Python
 - Database: MySQL
 - Visualization: Tableau, PowerBI
 
-### 👋🏻 Connect with Me
+### 💼 Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/gideon-zamora-844020217/)
 - gideon.zamora@gmail.com
