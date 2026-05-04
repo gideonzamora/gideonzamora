@@ -11,7 +11,6 @@ This is where I showcase my [projects](https://github.com/gideonzamora/first-pro
 
 ### 🔧 Tools
 
-- Language: SQL, Python
 - Database: MySQL
 - Visualization: Tableau, PowerBI, Microsoft Excel
 
